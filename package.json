@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KingPogona/employee-manager/issues"
   },
-  "homepage": "https://github.com/KingPogona/employee-manager#readme"
+  "homepage": "https://github.com/KingPogona/employee-manager#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5"
+  }
 }
