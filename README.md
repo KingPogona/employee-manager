@@ -46,6 +46,10 @@ If you have any questions please feel free to contact me at aacpogona@me.com.
 
 ## Walkthrough Video Link
 
+[https://drive.google.com/file/d/1boHpVk-XDCUW6d9M5iOYezOkZERQZI85/view](https://drive.google.com/file/d/1boHpVk-XDCUW6d9M5iOYezOkZERQZI85/view)
 
+Sorry for the audio quality. I didn't realize untill later that my mic was not turned on so it just used the built in mic. You may also notice in the video some manager ids of 0. those were manually entered during testing and should not occur when actually using the command line. 
+
+Eventually this might be updated to use selectable text options instead of having to know wich ids you want to use. This presents some of its own issues when there are tons of entries in the database so I am not sure which I prefer. Odds are that I will update it to just be a list of options as I dont see someone using this with many people.
 
     
